@@ -1,2 +1,1 @@
-My new directory README.md  
-Updated README.md
+My new directory README.md
